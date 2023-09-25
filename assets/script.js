@@ -19,3 +19,4 @@ if (topic === 'HTML') {
 }
 */
 
+var coding = 'Fun!'
